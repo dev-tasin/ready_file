@@ -29,7 +29,7 @@ const Footer = () => {
                     </div>
 
                     <div className="flex gap-x-3">
-                        <a href="https://www.facebook.com" target="_blank" className="flex items-center justify-center text-white bg-primary w-[30px] h-[30px] rounded-full">
+                        <a href="https://www.facebook.com/md.tasin.7773/" target="_blank" className="flex items-center justify-center text-white bg-primary w-[30px] h-[30px] rounded-full">
                             <FaFacebookF />
                         </a>
                         <a href="https://www.twitter.com" target="_blank" className="flex items-center justify-center text-white bg-primary w-[30px] h-[30px] rounded-full">
@@ -38,7 +38,7 @@ const Footer = () => {
                         <a href="https://www.linkedin.com" target="_blank" className="flex items-center justify-center text-white bg-primary w-[30px] h-[30px] rounded-full">
                             <FaLinkedinIn />
                         </a>
-                        <a href="https://www.instagram.com" target="_blank" className="flex items-center justify-center text-white bg-primary w-[30px] h-[30px] rounded-full">
+                        <a href="https://www.instagram.com/tasin__ahmed/" target="_blank" className="flex items-center justify-center text-white bg-primary w-[30px] h-[30px] rounded-full">
                             <FaInstagram />
                         </a>
                     </div>

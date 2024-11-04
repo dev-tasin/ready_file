@@ -23,7 +23,7 @@ const Header = () => {
                 </div>
 
                 <div className='flex items-center gap-x-[19px]  '>
-                    <a href="https://www.facebook.com" target="_blank">
+                    <a href="https://www.facebook.com/md.tasin.7773/" target="_blank">
                     <FaFacebookF/> 
                     </a>
                     <a href="https://www.twitter.com" target="_blank">
@@ -32,7 +32,7 @@ const Header = () => {
                     <a href="https://www.linkedin.com" target="_blank">
                     <FaLinkedinIn/> 
                     </a>
-                    <a href="https://www.instagram.com" target="_blank">
+                    <a href="https://www.instagram.com/tasin__ahmed/" target="_blank">
                     <FaInstagram/> 
                     </a>
                 </div>
