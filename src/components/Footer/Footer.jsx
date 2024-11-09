@@ -7,10 +7,10 @@ import { FaPhoneAlt , FaFacebookF , FaTwitter , FaLinkedinIn , FaInstagram } fro
 
 const Footer = () => {
   return (
-    <div className='bg-[#1F1F1F]  bg-no-repeat bg-center bg-cover py-[150px]'>
+    <div className='bg-[#1F1F1F]  bg-no-repeat bg-center bg-cover py-[50px] md:py-[150px] px-[20px] md:px-0'>
         <Container>
-            <div className='flex'>
-                <div className='w-[40%]'>
+            <div className='md:flex'>
+                <div className='md:w-[40%]'>
                     <a href="#">
                     <img src="../../src/assets/logo.png" alt="" />
                     </a>
@@ -44,7 +44,7 @@ const Footer = () => {
                     </div>
                 </div>
 
-                <div className='w-[40%] flex justify-around'>
+                <div className='md:w-[40%] md:flex justify-around'>
                     <div>
                         <h4 className='text-base font-primary font-bold text-white pt-[30px] pb-[21px]'>Company</h4>
                         <div className='flex flex-col'>
@@ -67,8 +67,8 @@ const Footer = () => {
 
                 <div>
                     <h4 className='text-base font-primary font-bold text-white pt-[30px] pb-[21px]'>Certificate</h4>
-                    <div className='flex gap-x-2'>
-                        <img src="../../src/assets/footer1.png" alt="" />
+                    <div className='md:flex md:gap-x-2'>
+                        <img className='mb-[10px] md:mb-0' src="../../src/assets/footer1.png" alt="" />
                         <img src="../../src/assets/footer2.png" alt="" />
                     </div>
                 </div>
